@@ -1,0 +1,163 @@
+    1  important.md
+    2  git-basic-exercise
+    3  git-basic-exercises
+    4  ls -a
+    5  git init
+    6  ls -a
+    7  git status
+    8  touch README.md
+    9  ls -a
+   10  git status
+   11  git log
+   12  git add README
+   13  git basic-exercises
+   14  git --help
+   15  pwd
+   16  cd ~
+   17  ls
+   18  git-basic-exercise
+   19  pwd
+   20  git init
+   21  git addREADME.md
+   22  git addREADME
+   23  git add README
+   24  echo "#git-basic-exerise
+   25  git init
+   26  git add README.md
+   27  git commit -M "first commit"
+   28  git branch -M main
+   29  git remote add origin git@github.com:git@github.com: 
+   30   git remote add origin  git@github.com:git@github.com:
+   31  git push -u origin main
+   32  git push origin master
+   33  git push -u origin master
+   34  cd
+   35  dddd
+   36  echo
+   37  $ git
+   38  #
+   39  git basic exer
+   40  cd
+   41  git init
+   42  git add README.md
+   43  git commit -m "first commit"
+   44  git branch -M main
+   45  git remote add origin git@github.com:Zizzerzazzerzuz/git-basic-exer.git
+   46  git push -u origin main
+   47  cd
+   48  ls -a
+   49  git init
+   50  ls -a
+   51  git remote add origin git remote add origin https://github.com/Zizzerzazzerzuz/git-basic-exer.git
+   52  git branch -M main
+   53  git push -u origin main
+   54  cd
+   55  ls -a
+   56  cd ~/desktop/
+   57  git clone git remote add origin https://github.com/Zizzerzazzerzuz/git-basic-exer.git
+   58  git branch -M main
+   59  git push -u origin main
+   60  cd git basic exer
+   61  cd git-basic-exer
+   62  git basic exer
+   63  cd git basic exer
+   64  ls -a
+   65  mkdir
+   66  mkdir
+   67  mkdir git basic exer
+   68  cd .\git basic exerdd
+   69  ls -a
+   70  cd git basic exer
+   71  git-basic-exer
+   72  mkdir git basic ex
+   73  mkdir git basic ex
+   74  mkdir git exer
+   75  mkdir new basics
+   76  ls -a
+   77  gi log
+   78  git log
+   79  mkdir new basics
+   80  ls -a
+   81  mkdir new git exercise
+   82  new basic exercise
+   83  mkdir new execerise
+   84  mkdir basic exercise
+   85  mkdir basic exer
+   86  mkdir training exercise
+   87  mkdir git basic exer
+   88  cd git-basic-exer
+   89  ls
+   90  cd .\desktop\
+   91  ls -a
+   92  cd git basic exer
+   93  cd git-basic-exer
+   94  cd
+   95  pwd
+   96  cd
+   97  ls
+   98  cd desktop
+   99  ls
+  100  ls
+  101  mkdir new-basic-exer
+  102  ls
+  103  cd new-basic-exer
+  104  ls
+  105  git init
+  106  ls -a
+  107  git status
+  108  touch README.md
+  109  ls -a
+  110  git status
+  111  git log
+  112  git add README.md
+  113  git status
+  114  git commit -m "initial commit"
+  115  git config --global user.email "bgotywa@gmail.com"
+  116  git config --config user.user "Zazzerzuz"
+  117  git config --global user.name "Zizzerzazzerzuz"
+  118  git commit -m "initial commit"
+  119  git log
+  120  q
+  121  nano README.md
+  122  cat README.md
+  123  git status
+  124  git commit -m "secodng commit"
+  125  git add README.md
+  126  git commit -m "second commit"
+  127  nano README.md
+  128  cat README.md
+  129  git add README.md
+  130  git commit -m "third commit"
+  131  git log
+  132  git checkout
+  133  git checkout dab167baf73f462474b944273947352ff6f588c3
+  134  cat README.md
+  135  git checkout main
+  136  git checkout master
+  137  cat README.md
+  138  git branch
+  139  git branch milkshake flavours
+  140  git branch milkshake-flavours
+  141  git branch
+  142  git branch milkshake-flavours
+  143  gits status
+  144  git status
+  145  git checkout milkshake-flavours
+  146  git status
+  147  git branch
+  148  nano milkshakes.md
+  149  git status
+  150  git add milkshakes.md
+  151  git commit -m "added initial falvours"
+  152  git log
+  153  git chechout master
+  154  git checkout master
+  155  git status
+  156  git branch history
+  157  git branche
+  158  giti branch
+  159  git branch
+  160  git checkout history
+  161  git log
+  162  history > history.txt.
+  163  history > history.txt
